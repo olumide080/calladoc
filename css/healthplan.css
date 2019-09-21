@@ -1,0 +1,523 @@
+body{font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans' sans-serif;
+    width: 1366px; height: 828px;
+background: #ffffff;
+opacity: 1;}
+header{width: 1366px; height: 88px;
+background: #ffffff;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;}
+img#cal{position: absolute; 
+    
+    top: 24px;
+    left: 142px;
+    width: 38px;
+    height: 38px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;}
+span.call{color: #B60B05;
+}
+#doc{position: absolute;
+top: 27px;
+left: 188px;
+width: 130px;
+height: 41px;
+text-align: left;
+font: SemiBold 30px/41px Nunito;
+letter-spacing: -2.4px;
+opacity: 1;
+    color: #229DE8;
+     height: 41px; width: 130px}
+a:link{
+    color: #229DE8;
+    position: relative; left: 860px;
+    top: 20px;
+
+}a:link, a:visited { color:  #229de8;}
+a:focus,  a:active { color: #FFFFFF;
+    list-style: none;}
+    a:hover{ color: #B60C06;}
+
+#ford{
+    color: #229DE8;
+    position: relative; top: 233px; left: 162px;
+    height: 225; width: 622;
+}
+#fonu{
+    position: relative; left: 800px; top: 55.07px;
+    height: 517.21px; width: 427px;  
+}
+#hth{color: #B60B05;
+    position: absolute; left: 621px; top: 32px;
+}
+#abt{
+    position: absolute; left: 774px; top: 32px;
+}
+#faq{
+    position: absolute; left: 890px; top: 32px
+}
+#con{
+    position: absolute; left: 989px; top: 32px
+}
+#sign{
+    position: absolute; left: 1130px; top: 32px
+}
+#oup{position: absolute;    
+    top: 120px;
+    left: 142px;
+    width: 208px;
+    height: 66px;
+    text-align: left;
+    font: Regular 48px/66px Nunito;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;}
+    #gee{position: absolute;
+        top: 191px;
+left: 142px;
+width: 599px;
+height: 64px;
+text-align: left;
+font: Light 24px/32px Nunito;
+letter-spacing: 0;
+color: #525355;
+opacity: 1;
+    }
+    #pag{position: absolute;
+        
+        top: 295px;
+        left: 142px;
+        width: 322px;
+        height: 369px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000042;
+        border-radius: 5px;
+        opacity: 1;}
+        span.page{position: absolute;
+top: 0px;
+left: 0px;
+width: 322px;
+height: 116px;
+background: transparent linear-gradient(108deg, #47E3FB 0%, #47E4FAE8 15%, #3BCCFA 38%, #39B8F7 59%, #229DE8 81%, #229DE8 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+border-radius: 0% 0% 100% 100%;
+        }
+        #decon{position: absolute;
+        top: 310px;
+left: 174px;
+width: 174px;
+height: 23px;
+text-align: left;
+font: SemiBold 17px/23px Nunito Sans;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+        }
+        #ngn{position: absolute;
+top: 358px;
+left: 240px;
+width: 118px;
+height: 32px;
+text-align: left;
+font: Bold 24px/32px Nunito Sans;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+        }
+        #one{position: absolute;            
+            top: 451px;
+            left: 174px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;}
+            #two{position: absolute;                
+                top: 483px;
+                left: 174px;
+                width: 15px;
+                height: 11px;
+                background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+                opacity: 1;}
+            #three{position: absolute;                
+                top: 515px;
+                left: 174px;
+                width: 15px;
+                height: 11px;
+                background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+                opacity: 1;}
+            #four{position: absolute;                
+                top: 547px;
+                left: 174px;
+                width: 15px;
+                height: 11px;
+                background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+                opacity: 1;}
+            #five{position: absolute;
+                top: 579px;
+                left: 174px;
+                width: 15px;
+                height: 11px;
+                background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+                opacity: 1;}
+            span.wax{position: absolute;
+top:1px;
+left: 44px;
+width: 44px;
+height: 19px;
+text-align: left;
+font: Regular 14px/19px Nunito;
+letter-spacing: 0;
+color: #707070;
+            }
+            #rst{position: relative;            
+                
+                top: 319px;
+                left: 190px;
+                width: 38px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;
+
+            }
+            span.was{position: absolute;
+            top: 0px;
+left: 51px;
+width: 79px;
+height: 19px;
+text-align: left;
+font: Regular 14px/19px Nunito;
+letter-spacing: 0;
+color: #707070;
+
+            }
+            #ond{position: absolute;               
+                
+                top: 465px;
+                left: 195px;
+                width: 48px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            #ird{position: absolute;        
+                top: 497px;
+                left: 195px;
+                width: 8px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            span.waes{position: absolute;              
+                top: 0px;
+                left: 16px;
+                width: 109px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;
+
+            }
+            /* #rth{position: absolute;            
+                top: 510px;
+                left: 201px;
+                width: 101px;
+                height: 19px;
+                text-align: left;
+                font: ExtraBold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;} */
+            #fst{position: absolute;               
+                top: 560px;
+                left: 195px;
+                width: 51px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            #rth{position: absolute;               
+                top: 527px;
+                left: 200px;
+                width: 181px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+            span.wash{position: absolute;              
+                top: 0px;
+                left: 54px;
+                width: 44px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+                hr{position: absolute;                    
+                    top: 617px;
+                    left: 143px;
+                    width: 322px;
+                    height: 0px;
+                    border: 1px solid #229DE8;
+                    opacity: 1;}
+                    #als{position: absolute;
+                    top: 632px;
+        left: 239px;
+        width: 93px; height: 19px;
+    text-align: left;
+    font: SemiBold 14px/19px Nunito Sans;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+    border-radius: 0% 0% 100% 100%;
+                    }
+#pad{position: absolute;    
+    top: 295px;
+    left: 511px;
+    width: 322px;
+    height: 369px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000042;
+    border-radius: 5px;
+    opacity: 1;}
+span.pag{position: absolute;    
+    top: 0px;
+    left: 0px;
+    width: 322px;
+    height: 116px;
+    background: transparent linear-gradient(108deg, #47E3FB 0%, #47E4FAE8 15%, #3BCCFA 38%, #39B8F7 59%, #229DE8 81%, #229DE8 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 0% 0% 100% 100%;}
+    #docon{position: absolute;
+top: 310px;
+left: 543px;
+width: 164px;
+height: 23px;
+text-align: left;
+font: SemiBold 17px/23px Nunito Sans;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+    }
+    #gnn{position: absolute;      
+         top: 358px;
+        left: 609px;
+        width: 118px;
+        height: 32px;
+        text-align: left;
+        font: Bold 24px/32px Nunito Sans;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;}
+        #six{position: absolute;            
+            top: 451px;
+            left: 543px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;
+        }
+        #seven{position: absolute;            
+            top: 483px;
+            left: 543px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;}
+        #eight{position: absolute;
+            
+            top: 515px;
+            left: 543px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;}
+        #nine{position: absolute;
+            
+            top: 547px;
+            left: 543px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;}
+        #ten{position: absolute;            
+            top: 579px;
+            left: 543px;
+            width: 15px;
+            height: 11px;
+            background: transparent url('img/tick.png') 0% 0% no-repeat padding-box;
+            opacity: 1;}
+            #ist{position: absolute;            
+                 top: 435px;
+                left: 570px;
+                width: 38px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            span.waxe{position: absolute;              
+                 top: 0px;
+                left: 42px;
+                width: 44px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+            #nod{position: absolute;               
+                top: 465px;
+                left: 570px;
+                width: 48px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            span.wes{position: absolute;               
+                
+                top: 0px;
+                left: 51px;
+                width: 79px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+            #rid{position: absolute;               
+                 top: 497px;
+                left: 570px;
+                width: 8px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            span.waese{position: absolute;
+                top: 0px;
+                left: 16px;
+                width: 109px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+            
+            #rah{position: absolute;              
+                top: 525px;
+                left: 570px;
+                width: 181px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+            #stf{position:  absolute;                            
+                top: 560px;
+                left: 570px;
+                width: 51px;
+                height: 19px;
+                text-align: left;
+                font: Bold 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #B60B05;}
+            span.wase{position: absolute;               
+                
+                top: 0px;
+                left: 54px;
+                width: 44px;
+                height: 19px;
+                text-align: left;
+                font: Regular 14px/19px Nunito;
+                letter-spacing: 0;
+                color: #707070;}
+                span.h{position: absolute;                    
+                    top: 617px;
+                    left: 512px;
+                    width: 322px;
+                    height: 0px;
+                    border: 1px solid #229DE8;
+                    opacity: 1;}
+                    #tar{position: absolute;
+                        top: 632px;
+left: 608px;
+width: 93px;
+height: 19px;
+text-align: left;
+font: SemiBold 14px/19px Nunito Sans;
+letter-spacing: 0;
+color: #229DE8;
+opacity: 1;
+                    }
+                    #tag{position: absolute;
+                        
+                        top: 633px;
+                        left: 348px;
+                        width: 7px;
+                        height: 13px;
+                        color: #229DE8;
+                        background: #FFFFFF 0% 0% no-repeat padding-box;
+                        opacity: 1;}
+                    #tagged{position: absolute;                       
+                        top: 633px;
+                        left: 720px;
+                        width: 7px;
+                        height: 13px;
+                        color: #229DE8;
+                        background: #FFFFFF 0% 0% no-repeat padding-box;
+                        opacity: 1;}
+                        footer{position: absolute;
+                            top: 738px;
+                            left: 50px;
+                            width: 1267px;
+                            height: 127px;
+                            background: #229DE8 0% 0% no-repeat padding-box;
+                            border-radius: 48px 48px 0px 0px;
+                            opacity: 1;  }
+                    
+                        #abu{position: absolute;top: 60px; left: 140px;
+                            width: 50px; height: 24px;
+                            text-align: left;
+                            font: regular 18px/24px Nunito Sans;
+                        letter-spacing: 0; color: #FFF;
+                        opacity: 1;    }
+                        #ask{position: absolute;top: 60px; left: 261px;
+                            width: 142px; height: 24px;
+                            text-align: left;
+                            font: regular 18px/24px Nunito Sans;
+                        letter-spacing: 0; color: #FFFFFF;
+                        opacity: 1;    }
+                    
+                    
+                        #cal{ position: absolute;top: 60px; left: 381px;
+                            width: 86px; height: 24px;
+                            text-align: left;
+                            font: bold 18px/24px Nunito Sans;
+                        letter-spacing: 0; color: #FFFFFF;
+                        opacity: 1;    }
+                    
+                        #fb{position: absolute;top: 60px; left: 652px;
+                            width: 11px; height: 21px;
+                        opacity: 1;    }
+                    
+                        #tweet{position: absolute;top: 60px; left: 687px;
+                            width: 28px; height: 21px;
+                                }
+                                #clos{position: absolute;top: 60px; left: 1131px;
+                                    width: 142px; height: 24px;
+                                    text-align: left;
+                                    font: regular 18px/24px Nunito Sans;
+                                letter-spacing: 0; color: #FFFFFF;
+                                opacity: 1;    }
+                                #red{
+                                    color: #B60B05;
+                                }
+                            
+                    span.wate{
+                        color: #B60B05;
+                    }
